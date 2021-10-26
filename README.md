@@ -2,4 +2,4 @@
 
 :heart: Django Girls :heart:
 
-(https://github.com/kristinca/my-first-blog/blob/main/blog.png)
+![Image](https://github.com/kristinca/my-first-blog/blob/main/blog.png)
